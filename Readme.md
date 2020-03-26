@@ -1,5 +1,7 @@
 # PyCon TW 2017 - 土炮股票分析系統
 
+哈哈哈,我是devin,改變第一行程式~~~!
+
 投影片網址： [https://goo.gl/JVLhRh](https://goo.gl/JVLhRh)
 
 影片網址： [https://bit.ly/2qASbEu](https://bit.ly/2qASbEu)
